@@ -1,3 +1,5 @@
+# NOTE: This is an adapted version from Tom Evslin Debate Team project. All rights to him. I thank him for his generosity to share his code online and make it publicly available.
+
 # debate_team
 Code, samples, and a working app for creating and using a debate team of AI agents with with Agent AutoBuild.
 
