@@ -1,0 +1,19 @@
+body {
+    font-size: 18px; /* Provides comfortable readability for most users */
+}
+
+h1 {
+    font-size: 32px; /* Clearly distinguishes the largest headings */
+}
+
+h2 {
+    font-size: 28px; /* Distinct, yet subordinate to h1 */
+}
+
+h3 {
+    font-size: 24px; /* Useful for subheadings */
+}
+
+h4, h5, h6 {
+    font-size: 20px; /* Smaller headings, less common but still defined */
+}
