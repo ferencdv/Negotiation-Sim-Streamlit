@@ -44,7 +44,7 @@ local_css('style.css')
 # The International Atomic Energy Agency (IAEA) is seeking to negotiate immediate and unfettered access to the Zaporizhia Nuclear Power Plant (NPP) in Ukraine. This demand comes after two years of unauthorized control of the plant by Russian forces. The IAEA emphasizes the critical importance of conducting a thorough inspection to assess the plant's safety and operational integrity, ensuring compliance with international nuclear safety standards. Given the prolonged period of occupation, it is imperative for the IAEA to verify the plant's condition and to ensure the safety of the surrounding region. The IAEA insists on a swift resolution to this matter, underscoring the urgency of the situation and the need for cooperation from Russian officials to grant access without further delay.
 
 # Hardwire the API key
-st.session_state['api_key'] = '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'
+st.session_state['api_key'] = <put your API here>
 
 # Function to create and load the debate team
 def create_debate_team(api_key):
