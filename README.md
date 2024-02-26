@@ -1,6 +1,8 @@
 # NOTE: This is an modified version from Tom Evslin Debate Team project. All rights to him. I thank him for his generosity to share his code online and make it publicly available. See license.
 D. F. Dalnoki-Veress, CNS/MIIS, California, USA.
 
+This simulates a hypothetical negotiation between the International Atomic Energy Agency (IAEA) and Russian Federation for immediate access to the Zaporihzhia NPP. Note that negotiation position can be easily varied. There are 2 IAEA AI Agents and 5 Russian AI Agents in this negotiation. See debatetam.json file for the details.
+
 This is Mr. Tom Evslin Readme File.
 
 # debate_team
