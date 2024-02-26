@@ -1,4 +1,7 @@
-# NOTE: This is an adapted version from Tom Evslin Debate Team project. All rights to him. I thank him for his generosity to share his code online and make it publicly available.
+# NOTE: This is an modified version from Tom Evslin Debate Team project. All rights to him. I thank him for his generosity to share his code online and make it publicly available. See license.
+D. F. Dalnoki-Veress, CNS/MIIS, California, USA.
+
+This is Mr. Tom Evslin Readme File.
 
 # debate_team
 Code, samples, and a working app for creating and using a debate team of AI agents with with Agent AutoBuild.
